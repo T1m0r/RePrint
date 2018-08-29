@@ -1,1 +1,16 @@
-1x netzteil
+Motor Controll:
+1x L289n motor pwm speed controller     https://www.amazon.de/gp/product/B01KBTNHS6/ref=oh_aui_detailpage_o04_s00?ie=UTF8&psc=1
+
+Tempretur Controll:
+3 x Heating Elements                     https://goo.gl/kWd5LN
+1-4x Thermistor                          https://goo.gl/kWd5LN
+1x ADC-Converter                         https://www.amazon.de/gp/product/B010I048KE/ref=oh_aui_detailpage_o03_s00?ie=UTF8&psc=1
+Relai                                    https://goo.gl/viGn8C
+
+Power supply:
+1x 12V Powersupply 3 outputs              https://www.amazon.de/gp/product/B01MRSAT39/ref=oh_aui_detailpage_o06_s00?ie=UTF8&psc=1
+
+RPI:
+Rpi                                       https://goo.gl/FaHb6P
+Jumper cable                              https://goo.gl/HJsEBf
+
