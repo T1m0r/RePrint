@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profiles>
+	<PLA mintemp="100" maxtemp="105" speed="7"></PLA>
+	<ABS mintemp="105" maxtemp="110" speed="7"></ABS>
+</profiles>
