@@ -1,6 +1,6 @@
 # RePrint
 
-RePrint is a <strong>Open source 3D Printing-Filament-Recycler-Project based on the Base Kit from FelFil Vevo</strong>.
+RePrint is a <strong>Open source 3D Printing-Filament-Recycler-Project based on the Base Kit from FelFil Vevo</strong>.<br>
 Here you can find a Bom( Bill of materials ) and my software.
 
 
@@ -10,6 +10,7 @@ We built a fully functional 3D-Printing-Waste Recycler, which is based on the Ba
 Additional to building and improving the Kit from FelFil we also constructed and built Crusher for larger waste.
 
 <h3>Version 1 - Only Base Kit </h3>
+
 We began by building the Kit, for which we needed to develop the electronic circuit. We made to option one to work with the Raspberry Pi and on for the Arduino.
 Raspberry Pi electrical plan: ![Electrical Plan Raspberry Pi](screenshots/RePrint.png)<br>
 Arduino electrical plan: ![Electrical Plan Arduino](screenshots/RePrintArduino_Steckplatine.png)<br>
