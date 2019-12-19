@@ -15,7 +15,7 @@ We began by building the Kit, for which we needed to develop the electronic circ
 Raspberry Pi electrical plan: ![Electrical Plan Raspberry Pi](screenshots/RePrint.png)<br>
 Arduino electrical plan: ![Electrical Plan Arduino](screenshots/RePrintArduino_Steckplatine.png)<br>
 
-We also needed to build a Software to test/control it.
+We also needed to build a Software to test/control it.<br>
 I wrote the Version for the Raspberry Pi, which can be found in this Repository.<br>
 The following image is a flow-chart of the diffrent states the Program has and how they connect to each other: ![States of the Software](screenshots/RePrint-Menu-Obverview.png)<br>
 <br>
@@ -25,7 +25,7 @@ As mentioned we also built a Version with a Crusher, so all the Material has (mo
 We also made Electrical Plans with Raspberry Pi and Arduino for this Version:
 Raspberry Pi electrical plan: ![Electrical Plan Raspberry Pi](screenshots/final_Steckplatine_2.png)<br>
 Arduino electrical plan: ![Electrical Plan Arduino](screenshots/RePrintArduino_Steckplatine_final.png)<br>
-As seen in these plans we decided that the crusher should be controlled by a manual switch. We've also included some mechanical safe guards so nobody could get hurt using the Recycler.<br>
+As seen in these plans we decided that the crusher should be controlled by a manual switch, for safety reasons. We've also included some mechanical safe guards so nobody could get hurt using the Recycler.<br>
 <h4>3D-Construction and Renders</h4>
 
 A image of the Recycler cut in half (!extruder screw not displayed): ![3D-Construction of Recycler](screenshots/3.PNG)<br>
@@ -37,4 +37,5 @@ A render of the full Recycler: ![3D-Render of Recycler](screenshots/rend.png)<br
 
 
 To conclude we also calculated the economical viability of our Recycler.<br>
-Our Calculated payback time calculation: ![Image of the Calculated payback time calculation](screenshots/kostenrechnung.PNG)<br>
+Our Calculated payback time calculation (Sorry only available in German): ![Image of the Calculated payback time calculation](screenshots/kostenrechnung.PNG)<br><br>
+<h4>If you have any questions or just want to know more about this project please contact me :D<h4>
